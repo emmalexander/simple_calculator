@@ -6,7 +6,7 @@ This project is a calculator application that performs simple arithmetic operati
 
 Dark Mode Support.
 
-A few packages used in this project:
+Packages used in this project:
 
 - Provider Package
 - Math Expressions
