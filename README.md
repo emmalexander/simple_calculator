@@ -5,9 +5,9 @@
   <img src="  Screenshot_20220924_195949.png" width="350" title="hover text">
 </p>
 
-A Flutter App.
+Made with Flutter.
 
-This project is a calculator application that performs simple arithmetic operations.
+This app is a calculator that performs the basic arithmetic operations.
 
 Dark Mode Support.
 
