@@ -13,5 +13,5 @@ Dark Mode Support.
 
 Packages used in this project:
 
-- ![Provider Package](https://pub.dev/packages/provider)
-- ![Math Expressions](https://pub.dev/packages/math_expressions)
+- [Provider Package](https://pub.dev/packages/provider)
+- [Math Expressions](https://pub.dev/packages/math_expressions)
